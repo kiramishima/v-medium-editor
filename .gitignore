@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 .DS_Store
 node_modules
 /dist
@@ -25,7 +24,6 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
-=======
 # Logs
 logs
 *.log
@@ -130,4 +128,3 @@ dist
 
 # TernJS port file
 .tern-port
->>>>>>> 4d718b02874ab0a1ed8c68af6436cf26efb60c0a

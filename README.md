@@ -1,5 +1,4 @@
 # v-medium-editor
-<<<<<<< HEAD
 
 ## Project setup
 ```
@@ -33,6 +32,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-=======
-Other Vue Medium Editor
->>>>>>> 4d718b02874ab0a1ed8c68af6436cf26efb60c0a
