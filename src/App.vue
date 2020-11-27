@@ -1,5 +1,5 @@
 <template>
-  <main class="w-screen h-screen flex flex-col">
+  <main class="container w-screen h-screen m-auto">
     <medium-editor></medium-editor>
   </main>
 </template>

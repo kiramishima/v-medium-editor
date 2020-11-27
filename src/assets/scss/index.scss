@@ -1,7 +1,7 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
 
 
-import "~medium-editor/dist/css/medium-editor.min.css";
-import "~medium-editor/dist/css/themes/default.css";
+@import "~medium-editor/dist/css/medium-editor.min.css";
+@import "~medium-editor/dist/css/themes/default.css";
